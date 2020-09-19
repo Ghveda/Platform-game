@@ -1,0 +1,10 @@
+C:\Users\Thinkpad\source\repos\PlatformGame\PlatformGame\bin\Debug\PlatformGame.exe.config
+C:\Users\Thinkpad\source\repos\PlatformGame\PlatformGame\bin\Debug\PlatformGame.exe
+C:\Users\Thinkpad\source\repos\PlatformGame\PlatformGame\bin\Debug\PlatformGame.pdb
+C:\Users\Thinkpad\source\repos\PlatformGame\PlatformGame\obj\Debug\PlatformGame.csprojAssemblyReference.cache
+C:\Users\Thinkpad\source\repos\PlatformGame\PlatformGame\obj\Debug\PlatformGame.Form1.resources
+C:\Users\Thinkpad\source\repos\PlatformGame\PlatformGame\obj\Debug\PlatformGame.Properties.Resources.resources
+C:\Users\Thinkpad\source\repos\PlatformGame\PlatformGame\obj\Debug\PlatformGame.csproj.GenerateResource.cache
+C:\Users\Thinkpad\source\repos\PlatformGame\PlatformGame\obj\Debug\PlatformGame.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\source\repos\PlatformGame\PlatformGame\obj\Debug\PlatformGame.exe
+C:\Users\Thinkpad\source\repos\PlatformGame\PlatformGame\obj\Debug\PlatformGame.pdb
